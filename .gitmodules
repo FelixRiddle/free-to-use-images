@@ -1,0 +1,3 @@
+[submodule "Projects/godot-2d-topdown-rpg-sprites"]
+	path = Projects/godot-2d-topdown-rpg-sprites
+	url = git@github.com:FelixRiddle/godot-2d-topdown-rpg-sprites.git
